@@ -1,5 +1,5 @@
 import logging
 
-BOT_TOKEN = '1864328239:AAEHD7aPYmtXqpihP9ggqx-jmakJMh_-g4Y'
+BOT_TOKEN = 'YOUR TOKEN'
 
-admin_id = 312311017
+admin_id = "YOUR ID"
